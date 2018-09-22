@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 # App
-![alt text](./assets/app.png)
-![alt text](./assets/app1.png)
+![alt text](./assets/app.png | width=100)
+![alt text](./assets/app1.png | width=100)
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
