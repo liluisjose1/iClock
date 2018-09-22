@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 # App
-![](./assets/app.png width=100)
-![](./assets/app1.png width=100)
+![](http://url.to/image.png = 250x)
+
+![image](./assets/app.png = 100x)
+![image](./assets/app1.png =100x)
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
